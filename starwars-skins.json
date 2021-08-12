@@ -1,0 +1,78 @@
+{
+    "luke": {
+             "default": "http://images.wikia.com/starwars/images/5/57/Luke_Skywalker_SWGTCG.jpg", 
+             "hoth": "http://4.bp.blogspot.com/-wqEnH8QHNlQ/UcB_PqIxhSI/AAAAAAAABZg/vWKDEzAMplU/s1600/Luke+Hoth.jpg",
+             "endor": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.kametoys.cl%2Fwp-content%2Fuploads%2F2019%2F01%2Fstar-wars-luke-skywalker-endor-sixth-scale-figure-hot-toys-feature-904247.jpg&f=1&nofb=1",
+             "nsfw": "https://us.rule34.xxx//samples/3635/sample_ba91258648eaac3b1bc8991da12339b0.jpg?4109571"
+        },
+
+    "darth-vader": {
+            "default": "https://bgr.com/wp-content/uploads/2015/08/darth-vader.jpg", 
+            "unmasked": "https://www.thewrap.com/wp-content/uploads/2018/12/ROTJ_anakin_unmasked.jpg",
+            "nsfw": "https://us.rule34.xxx//images/350/ace0c5b26bfaa2373bd0236c70b49825.jpeg?4211818"
+        },
+
+    "r2d2": {
+            "default": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg-new.cgtrader.com%2Fitems%2F27610%2Fr2d2_star_wars_droid_robot_3d_model_3ds_fbx_c4d_lwo_lw_lws_obj_max__cf59dc7f-6bc6-4646-8cf7-334c1504921a.jpg&f=1&nofb=1", 
+            "damaged": "https://www.jgcreation.net/wp-content/uploads/2017/05/DSC4541-700x460.jpg",
+            "tool": "https://cdn.shopify.com/s/files/1/0009/0898/4438/products/bandai-112-star-wars-r2-d2-r5-d4-kit-g0195963_2d915540-db06-483f-9995-906537636f33_800x.jpg?v=1571718426",
+            "servant": "http://www.rebelscum.com/swsaga/sw0405r2-d2bargeloose-m.jpg",
+            "nsfw": "https://us.rule34.xxx//images/3880/cc7ec8d67fcc739739624af8c85d8504.gif?4393313"
+        },
+
+    "stormtrooper": {
+            "default": "http://assets2.ignimgs.com/2015/04/16/helmetjpg-c2d76d_1280w.jpg",
+            "old": "https://getwallpapers.com/wallpaper/full/7/0/d/298320.jpg",
+            "flame": "https://www.starwarsnewsnet.com/wp-content/uploads/2015/04/trooper.jpg",
+            "shock": "http://www.mwctoys.com/images2/review_battlefronttroop_3.jpg",
+            "scout": "https://i.redd.it/x3v4wi2xlph21.jpg",
+            "death": "https://static.wikia.nocookie.net/starwars/images/6/69/Death_trooper_Fathead.png/revision/latest/top-crop/width/200/height/150?cb=20161108064121",
+            "shadow": "https://static.wikia.nocookie.net/starwars/images/5/56/Shadow_Trooper_canon.png/revision/latest/top-crop/width/200/height/150?cb=20151106024927",
+            "snow": "https://aa1a5178aef33568e9c4-a77ea51e8d8892c1eb8348eb6b3663f6.ssl.cf5.rackcdn.com/p/full/458fc77e-f907-4e65-abf4-0e72b8db63e8.jpg",
+            "nsfw": "https://img3.pillowfort.social/posts/6508b7318cb3_Stormtrooper01_Filtered.jpg"
+        },
+
+    "bb8": {
+            "default": "http://kidsumers.ca/wp-content/uploads/2016/01/bb8.png",
+            "tool": "https://issue1studios.com/wp-content/uploads/2017/09/BB8-TLJ-566x800.png",
+            "nsfw": "https://us.rule34.xxx//images/3817/19f04ea851d000c65b8009e20b98ce274355eb55.jpg?4320509"
+    },
+
+    "jarjar-binks": {
+            "default": "https://images.thestar.com/OGqv3ln5-lxkk1UcRDUmarzPjJ4=/850x752/smart/filters:cb(1506199742605)/https://www.thestar.com/content/dam/thestar/entertainment/movies/2015/12/14/what-do-we-know-about-star-wars-the-force-awakens/tab-en-starwars-whatweknow-7jpg.jpg",
+            "nsfw": "https://ih1.redbubble.net/image.1017454524.5460/flat,750x,075,f-pad,750x1000,f8f8f8.jpg"
+    },
+
+    "rey": {
+            "default": "https://vignette.wikia.nocookie.net/thestarwarscanon/images/3/3d/Rey_Star_Wars_Ep_IX.png/revision/latest?cb=20191010063528",
+            "dark": "https://wallpapercave.com/wp/wp4605113.jpg",
+            "nsfw": "https://i.redd.it/1mtezgzh6ze71.jpg"
+    },
+
+    "kylo-ren": {
+            "default": "https://aa1a5178aef33568e9c4-a77ea51e8d8892c1eb8348eb6b3663f6.ssl.cf5.rackcdn.com/p/full/e76f93db-4c6b-4c70-b5a1-10c1bee4624d.jpg",
+            "unmasked": "http://nixon.trendfar.com/images/20160408085246-kylo-ren-unmasked-jpg-495x607-ren-s.jpg?s=DZrAsAUBCU",
+            "broken-mask": "https://i.pinimg.com/originals/8c/2d/66/8c2d66a13a1944d5c13da6bbe8278d65.jpg",
+            "nsfw": "https://us.rule34.xxx//images/4321/182fd2ad65af28daff958e57fd624f0f.jpeg?4917173"
+    },
+
+    "obiwan-kenobi": {
+            "default": "https://www.rollingstone.de/wp-content/uploads/2017/08/18/10/ewan-mcgregor-obi-wan-star-wars.jpg",
+            "old": "http://images4.fanpop.com/image/photos/20300000/Old-Ben-obi-wan-kenobi-20375221-1600-1200.jpg",
+            "spirit": "http://4.bp.blogspot.com/-DiznIYpJ7BQ/VRcCJ9ZE_8I/AAAAAAAAAWg/D-iPiMGRcNo/s1600/obiwan02.jpg",
+            "nsfw": "https://us.rule34.xxx//samples/4290/sample_d925e6dd1a5b9c17ef057ffe4e897364.jpg?4881248"
+    },
+
+    "padme": {
+            "default": "http://images6.fanpop.com/image/photos/43200000/Padme-Amidala-star-wars-43206036-1080-1920.png",
+            "queen": "https://www.cheatsheet.com/wp-content/uploads/2019/11/padme-amidala.png",
+            "young": "http://images4.fanpop.com/image/photos/24100000/Padme-Amidala-star-wars-characters-24135834-500-375.jpg",
+            "nsfw": "https://i.redd.it/0q45vg6c87e71.jpg"
+    },
+
+    "anakin": {
+            "default": "https://i.insider.com/56819d57e6183e263a8b5041",
+            "boy": "https://fthmb.tqn.com/kKoTAnKA13G4JxelZ2PB0-z70B0=/1500x1143/filters:fill(auto,1)/jake-lloyd-56a8f97b5f9b58b7d0f6df96.jpg",
+            "nsfw": "https://us.rule34.xxx//samples/4313/sample_d6d96f0dc38e9edbb3e3474c52e9e100.jpg?4908116"
+    }
+}

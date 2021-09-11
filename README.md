@@ -1,4 +1,4 @@
 # Starwars Roleplay
 A discord bot that is focused on starwars roleplay!
-# Server
-If you want you can join the *official* discord [server](https://discord.gg/m5xNfGwN)!
+# Setup
+To set this bot up, you need to head to (here)[https://discord.com/developer] and create a application, then grab the token.
